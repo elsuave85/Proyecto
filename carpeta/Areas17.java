@@ -8,7 +8,7 @@ public class Areas17 {
 		
 		Scanner entrada=new Scanner(System.in);
 		
-	  System.out.println("Elige una de estas opciones:  \n1: Cuadrado  \n2: Rectangulo  \n3: Triangulo  \n4: Circulo");
+	  System.out.println("Elige unas opciones:  \n1: Cuadrado  \n2: Rectangulo  \n3: Triangulo  \n4: Circulo");
 	   
 	   int figura=entrada.nextInt();
 	  
